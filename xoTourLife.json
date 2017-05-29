@@ -83,7 +83,7 @@
 	"fontSize": 180,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":11.0
+	"trigger":11.10
 }, {
 	"text": "Countin' them bands all way to the top, 'til they be fallin' over",
 	"duration": 2000,
@@ -135,13 +135,12 @@
 	"trigger":31.5
 }, {
 	"text": "She said, Baby, I am not afraid to die",
-	"duration": 3000,
 	"font": "SNIPER",
 	"fontStyle": "normal",
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":34
+	"trigger":35.5
 }, {
 	"text": "Push me to the edge",
 	"duration": 1700,
@@ -151,7 +150,7 @@
 	"fontSize": 180,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":38.7
+	"trigger":38.5
 }, {
 	"text": "All my friends are dead",
 	"duration": 1700,
@@ -159,8 +158,8 @@
 	"fontStyle": "normal",
 	"fontSize": 80,
 	"fontColor": "black",
-	"backgroundColor": "yellow",
-	"trigger":40.65
+	"backgroundColor": "white",
+	"trigger":40.7
 }, {
 	"text": "Push me to the edge",
 	"duration": 1700,
@@ -170,7 +169,7 @@
 	"fontSize": 180,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":41.98
+	"trigger":41.75
 }, {
 	"text": "All my friends are dead",
 	"duration": 1700,
@@ -179,7 +178,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":42.26
+	"trigger":43.06
 }, {
 	"text": "Push me to the edge",
 	"duration": 1700,
@@ -189,7 +188,7 @@
 	"fontSize": 180,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":45.06
+	"trigger":44.84
 }, {
 	"text": "All my friends are dead",
 	"duration": 1700,
@@ -198,7 +197,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":46.54
+	"trigger":46.85
 }, {
 	"text": "Push me to the edge",
 	"duration": 1300,
@@ -208,16 +207,16 @@
 	"fontSize": 180,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":48.09
+	"trigger":48.46
 }, {
 	"text": "Phantom that's all black, inside all white",
 	"duration": 2500,
 	"font": "SNIPER",
 	"fontStyle": "normal",
 	"fontSize": 80,
-	"fontColor": "red",
+	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":49.75
+	"trigger":49.90
 }, {
 	"text": "Like something you ride a sled down, I just want that head",
 	"duration": 3000,
@@ -226,7 +225,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":52.30
+	"trigger":52.49
 }, {
 	"text": "My Brittany got mad, I'm barely her man now",
 	"duration": 3500,
@@ -235,7 +234,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":56.20
+	"trigger":56.15
 }, {
 	"text": "Everybody got the same swag now, watch the way that I tear it down",
 	"duration": 3700,
@@ -244,7 +243,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":59.45
+	"trigger":59.19
 }, {
 	"text": "Stackin' my bands all the way to the top, all the way 'til my bands fallin' over",
 	"duration": 3000,
@@ -253,7 +252,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":62.25
+	"trigger":62.40
 }, {
 	"text": "Every time that you leave your spot, your girlfriend call me like, Come on over",
 	"duration": 3000,
@@ -262,7 +261,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":65.7
+	"trigger":65.45
 }, {
 	"text": "I like the way that she treat me, gon' leave you, won't leave me, I call it that Casanova",
 	"duration": 3200,
@@ -280,7 +279,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":71.5
+	"trigger":71.3
 }, {
 	"text": "I might blow my brain out",
 	"duration": 2200,
@@ -289,7 +288,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":73
+	"trigger":73.45
 }, {
 	"text": "Xanny help the pain, yeah",
 	"duration": 2400,
@@ -298,7 +297,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":75.55
+	"trigger":75.4
 }, {
 	"text": "Please, Xanny make it go away",
 	"duration": 2300,
@@ -307,7 +306,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":77.77
+	"trigger":77.75
 }, {
 	"text": "I'm committed, not addicted, but it keep control of me",
 	"duration": 2800,
@@ -316,7 +315,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":80.77
+	"trigger":80.82
 }, {
 	"text": "All the pain, now I can't feel it, I swear that it's slowin' me, yeah",
 	"duration": 4800,
@@ -325,7 +324,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":83.70
+	"trigger":83.69
 }, {
 	"text": "I don't really care if you cry",
 	"duration": 2800,
@@ -334,7 +333,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":88.63
+	"trigger":88.42
 }, {
 	"text": "On the real, you should've never lied",
 	"duration": 3800,
@@ -352,7 +351,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":94.94
+	"trigger":94.78
 }, {
 	"text": "She said I am not afraid to die",
 	"duration": 3000,
@@ -361,7 +360,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":97.5
+	"trigger":97.50
 }, {
 	"text": "All my friends are dead",
 	"duration": 2000,
@@ -370,7 +369,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":101.3
+	"trigger":100.72
 }, {
 	"text": "Push me to the edge",
 	"duration": 2000,
@@ -380,7 +379,7 @@
 	"fontSize": 180,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":102.5
+	"trigger":102.12
 }, {
 	"text": "All my friends are dead, yeah",
 	"duration": 3000,
@@ -389,7 +388,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":103.88
+	"trigger":103.59
 }, {
 	"text": "Push me to the edge",
 	"duration": 1800,
@@ -399,7 +398,7 @@
 	"fontSize": 180,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":105.25
+	"trigger":106
 }, {
 	"text": "All my friends are dead, yeah",
 	"duration": 2500,
@@ -408,7 +407,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":109
+	"trigger":108.55
 }, {
 	"text": "All my friends are dead, yeah",
 	"duration": 2000,
@@ -417,7 +416,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":112.26
+	"trigger":110.28
 }, {
 	"text": "That is not your swag, I swear you fake hard",
 	"duration": 3000,
@@ -426,7 +425,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":113.0
+	"trigger":112.7
 }, {
 	"text": "Now these niggas wanna take my cadence",
 	"duration": 3000,
@@ -435,7 +434,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":116
+	"trigger":115.39
 }, {
 	"text": "Rain on 'em, thunderstorm, rain on 'em",
 	"duration": 3000,
@@ -444,7 +443,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":119.10
+	"trigger":118.50
 }, {
 	"text": "Medicine, lil' nigga take some",
 	"duration": 3000,
@@ -453,7 +452,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":122.23
+	"trigger":121.8
 }, {
 	"text": "Fast car, Nascar, race on 'em",
 	"duration": 3000,
@@ -462,7 +461,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":125
+	"trigger":124.10
 }, {
 	"text": "In the club, ain't got no ones, then we would become",
 	"duration": 2000,
@@ -471,7 +470,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":127
+	"trigger":127.25
 }, {
 	"text": "Clothes from overseas, got the racks and they all C-Notes",
 	"duration": 4200,
@@ -480,7 +479,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":132
+	"trigger":131.90
 }, {
 	"text": "You is not a G, though",
 	"duration": 2000,
@@ -489,7 +488,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":133.54
+	"trigger":135.26
 }, {
 	"text": "Lookin' at you stackin’ all your money, it all green though",
 	"duration": 2000,
@@ -498,7 +497,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":137
+	"trigger":137.10
 }, {
 	"text": "I was countin' that and these all twenties, that's a G-roll",
 	"duration": 2000,
@@ -507,7 +506,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":141
+	"trigger":140.03
 }, {
 	"text": "She say, You're the worst; you're the worst",
 	"duration": 2000,
@@ -516,7 +515,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":143
+	"trigger":143.05
 }, {
 	"text": "I cannot die because this my universe",
 	"duration": 2000,
@@ -525,7 +524,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":147.7
+	"trigger":146.8
 }, {
 	"text": "I don't really care if you cry",
 	"duration": 2000,
@@ -534,7 +533,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":150.5
+	"trigger":149.09
 }, {
 	"text": "On the real, you should've never lied",
 	"duration": 2000,
@@ -543,7 +542,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":153.54
+	"trigger":153.16
 }, {
 	"text": "Should've saw the way she looked me in my eyes",
 	"duration": 2000,
@@ -552,7 +551,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":157
+	"trigger":156.37
 }, {
 	"text": "She said, Baby, I am not afraid to die",
 	"duration": 2000,
@@ -561,7 +560,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":160
+	"trigger":159.33
 }, {
 	"text": "Push me to the edge",
 	"duration": 2000,
@@ -571,7 +570,7 @@
 	"fontSize": 180,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":163.10
+	"trigger":162.63
 }, {
 	"text": "All my friends are dead",
 	"duration": 2000,
@@ -580,7 +579,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":164.23
+	"trigger":164.34
 }, {
 	"text": "Push me to the edge",
 	"duration": 2000,
@@ -590,7 +589,7 @@
 	"fontSize": 180,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":165.91
+	"trigger":165.82
 }, {
 	"text": "All my friends are dead",
 	"duration": 2000,
@@ -599,7 +598,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":167.18
+	"trigger":167.36
 }, {
 	"text": "Push me to the edge",
 	"duration": 2000,
@@ -609,7 +608,7 @@
 	"fontSize": 180,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":169.07
+	"trigger":168.69
 }, {
 	"text": "All my friends are dead",
 	"duration": 2000,
@@ -618,7 +617,7 @@
 	"fontSize": 80,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":170.52
+	"trigger":169.94
 }, {
 	"text": "Push me to the edge",
 	"duration": 2000,
@@ -628,5 +627,5 @@
 	"fontSize": 180,
 	"fontColor": "black",
 	"backgroundColor": "white",
-	"trigger":172.38
+	"trigger":172.10
 }]
