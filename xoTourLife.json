@@ -1,0 +1,632 @@
+[
+{
+	"text": ".",
+	"duration": 1450,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"animation":"rollIn",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":0.0
+},
+{
+	"text": "..",
+	"duration": 1450,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"animation":"rollIn",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":1.0
+},
+{
+	"text": "...",
+	"duration": 1450,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"animation":"rollIn",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":2.0
+},
+{
+	"text": "....",
+	"pre":"LEO",
+	"duration": 1450,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"animation":"rollIn",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":4.0
+},
+{
+	"text": "Are you alright?",
+	"trigger": 1600,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"animation":"rubberBand",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":5.0
+}, {
+	"text": "I'm alright, I'm quite alright",
+	"duration": 2000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"animation":"wobble",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":6
+}, {
+	"text": "And my money's right",
+	"duration": 1700,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"animation":"jello",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":9
+}, {
+	"text": "(yeah)",
+	"duration": 4000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"animation":"tada",
+	"fontSize": 180,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":11.0
+}, {
+	"text": "Countin' them bands all way to the top, 'til they be fallin' over",
+	"duration": 2000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"animation":"wobble",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":13.0
+}, {
+	"text": "Countin' them bands, on my way to the top, 'til we fallin' over",
+	"duration": 9000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"animation":"rubberBand",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":15
+}, {
+	"text": "I don't really care if you cry", 
+	"duration": 3500,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"animation":"bounceInUp",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":26.5
+}, {
+	"text": "On the real you should've never lied",
+	"duration": 2500,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"animation":"bounceInDown",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":28.5
+}, {
+	"text": "Should've saw the way she looked me in my eyes",
+	"duration": 3000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":31.5
+}, {
+	"text": "She said, Baby, I am not afraid to die",
+	"duration": 3000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":34
+}, {
+	"text": "Push me to the edge",
+	"duration": 1700,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"animation":"tada",
+	"fontSize": 180,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":38.7
+}, {
+	"text": "All my friends are dead",
+	"duration": 1700,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "yellow",
+	"trigger":40.65
+}, {
+	"text": "Push me to the edge",
+	"duration": 1700,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"animation":"tada",
+	"fontSize": 180,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":41.98
+}, {
+	"text": "All my friends are dead",
+	"duration": 1700,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":42.26
+}, {
+	"text": "Push me to the edge",
+	"duration": 1700,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"animation":"tada",
+	"fontSize": 180,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":45.06
+}, {
+	"text": "All my friends are dead",
+	"duration": 1700,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":46.54
+}, {
+	"text": "Push me to the edge",
+	"duration": 1300,
+	"font": "SNIPER",
+	"animation":"tada",
+	"fontStyle": "normal",
+	"fontSize": 180,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":48.09
+}, {
+	"text": "Phantom that's all black, inside all white",
+	"duration": 2500,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "red",
+	"backgroundColor": "white",
+	"trigger":49.75
+}, {
+	"text": "Like something you ride a sled down, I just want that head",
+	"duration": 3000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":52.30
+}, {
+	"text": "My Brittany got mad, I'm barely her man now",
+	"duration": 3500,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":56.20
+}, {
+	"text": "Everybody got the same swag now, watch the way that I tear it down",
+	"duration": 3700,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":59.45
+}, {
+	"text": "Stackin' my bands all the way to the top, all the way 'til my bands fallin' over",
+	"duration": 3000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":62.25
+}, {
+	"text": "Every time that you leave your spot, your girlfriend call me like, Come on over",
+	"duration": 3000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":65.7
+}, {
+	"text": "I like the way that she treat me, gon' leave you, won't leave me, I call it that Casanova",
+	"duration": 3200,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":68.5
+}, {
+	"text": "She say I'm insane, yeah",
+	"duration": 1800,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":71.5
+}, {
+	"text": "I might blow my brain out",
+	"duration": 2200,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":73
+}, {
+	"text": "Xanny help the pain, yeah",
+	"duration": 2400,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":75.55
+}, {
+	"text": "Please, Xanny make it go away",
+	"duration": 2300,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":77.77
+}, {
+	"text": "I'm committed, not addicted, but it keep control of me",
+	"duration": 2800,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":80.77
+}, {
+	"text": "All the pain, now I can't feel it, I swear that it's slowin' me, yeah",
+	"duration": 4800,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":83.70
+}, {
+	"text": "I don't really care if you cry",
+	"duration": 2800,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":88.63
+}, {
+	"text": "On the real, you should've never lied",
+	"duration": 3800,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":91.38
+}, {
+	"text": "Saw the way she looked me in my eyes",
+	"duration": 2400,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":94.94
+}, {
+	"text": "She said I am not afraid to die",
+	"duration": 3000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":97.5
+}, {
+	"text": "All my friends are dead",
+	"duration": 2000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":101.3
+}, {
+	"text": "Push me to the edge",
+	"duration": 2000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"animation":"tada",
+	"fontSize": 180,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":102.5
+}, {
+	"text": "All my friends are dead, yeah",
+	"duration": 3000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":103.88
+}, {
+	"text": "Push me to the edge",
+	"duration": 1800,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"animation":"tada",
+	"fontSize": 180,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":105.25
+}, {
+	"text": "All my friends are dead, yeah",
+	"duration": 2500,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":109
+}, {
+	"text": "All my friends are dead, yeah",
+	"duration": 2000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":112.26
+}, {
+	"text": "That is not your swag, I swear you fake hard",
+	"duration": 3000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":113.0
+}, {
+	"text": "Now these niggas wanna take my cadence",
+	"duration": 3000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":116
+}, {
+	"text": "Rain on 'em, thunderstorm, rain on 'em",
+	"duration": 3000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":119.10
+}, {
+	"text": "Medicine, lil' nigga take some",
+	"duration": 3000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":122.23
+}, {
+	"text": "Fast car, Nascar, race on 'em",
+	"duration": 3000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":125
+}, {
+	"text": "In the club, ain't got no ones, then we would become",
+	"duration": 2000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":127
+}, {
+	"text": "Clothes from overseas, got the racks and they all C-Notes",
+	"duration": 4200,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":132
+}, {
+	"text": "You is not a G, though",
+	"duration": 2000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":133.54
+}, {
+	"text": "Lookin' at you stackin’ all your money, it all green though",
+	"duration": 2000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":137
+}, {
+	"text": "I was countin' that and these all twenties, that's a G-roll",
+	"duration": 2000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":141
+}, {
+	"text": "She say, You're the worst; you're the worst",
+	"duration": 2000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":143
+}, {
+	"text": "I cannot die because this my universe",
+	"duration": 2000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":147.7
+}, {
+	"text": "I don't really care if you cry",
+	"duration": 2000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":150.5
+}, {
+	"text": "On the real, you should've never lied",
+	"duration": 2000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":153.54
+}, {
+	"text": "Should've saw the way she looked me in my eyes",
+	"duration": 2000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":157
+}, {
+	"text": "She said, Baby, I am not afraid to die",
+	"duration": 2000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":160
+}, {
+	"text": "Push me to the edge",
+	"duration": 2000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"animation":"tada",
+	"fontSize": 180,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":163.10
+}, {
+	"text": "All my friends are dead",
+	"duration": 2000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":164.23
+}, {
+	"text": "Push me to the edge",
+	"duration": 2000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"animation":"tada",
+	"fontSize": 180,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":165.91
+}, {
+	"text": "All my friends are dead",
+	"duration": 2000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":167.18
+}, {
+	"text": "Push me to the edge",
+	"duration": 2000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"animation":"tada",
+	"fontSize": 180,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":169.07
+}, {
+	"text": "All my friends are dead",
+	"duration": 2000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"fontSize": 80,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":170.52
+}, {
+	"text": "Push me to the edge",
+	"duration": 2000,
+	"font": "SNIPER",
+	"fontStyle": "normal",
+	"animation":"tada",
+	"fontSize": 180,
+	"fontColor": "black",
+	"backgroundColor": "white",
+	"trigger":172.38
+}]

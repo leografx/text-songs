@@ -1,0 +1,707 @@
+[{
+		"text": "Apenas sale el sol y tú te vas corriendo",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 48,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Sé que pensarás que esto me está doliendo",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Yo no estoy pensando en lo que estás haciendo",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Si somos ajenos y así nos queremos",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 78,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Si conmigo te quedas",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 38,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "O con otro tú te vas",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "No me importa un carajo",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Porque sé que volverás",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+
+	{
+		"text": "Si conmigo te quedas",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "O con otro tú te vas",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "No me importa un carajo",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Porque sé que volverás",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Y si con otro pasas el rato",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Vamo' a ser feliz, vamo' a ser feliz",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Felices los 4",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 60,
+		"fontColor": "white",
+		"backgroundColor": "red"
+	},
+	{
+		"text": "Te agrandamos el cuarto",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+
+	{
+		"text": "Y si con otro pasas el rato",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Vamo' a ser feliz, vamo' a ser feliz",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Felices los 4",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 60,
+		"fontColor": "white",
+		"backgroundColor": "red"
+	},
+	{
+		"text": "Yo te acepto el trato",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Y lo hacemos otro rato",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Y lo hacemos otro rato",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Y lo hacemos otro rato",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Y lo hacemos otro rato",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Y lo hacemos otro rato",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Lo nuestro no depende de un pacto",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Disfruta y solo siente el impacto",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "El boom boom que te quema, ese cuerpo de sirena",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Tranquila que no creo en contratos",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "(Y tu menos...)",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Y siempre que se va, regresa a mí",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Y felices los 4",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 60,
+		"fontColor": "white",
+		"backgroundColor": "red"
+	},
+	{
+		"text": "No importa el que dirán, nos gusta así",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "(Te agrandamos el cuarto, baby)",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Y siempre que se va, regresa a mí",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Y felices los 4",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 60,
+		"fontColor": "white",
+		"backgroundColor": "red"
+	},
+	{
+		"text": "No importa el que dirán, somos tal para cual",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Y si con otro pasas el rato",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Vamo' a ser feliz, vamo' a ser feliz",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Felices los 4",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 60,
+		"fontColor": "white",
+		"backgroundColor": "red"
+	},
+	{
+		"text": "Te agrandamos el cuarto",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Y si con otro pasas el rato",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Vamo' a ser feliz, vamo' a ser feliz",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Felices los 4",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 60,
+		"fontColor": "white",
+		"backgroundColor": "red"
+	},
+	{
+		"text": "Yo te acepto el trato",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Y lo hacemos otro rato",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Y lo hacemos otro rato",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Y lo hacemos otro rato",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Y lo hacemos otro rato",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Si conmigo te quedas",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "O con otro tú te vas",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "No me importa un carajo",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Porque sé que volverás",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+
+	{
+		"text": "Si conmigo te quedas",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "O con otro tú te vas",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "No me importa un carajo",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Porque sé que volverás",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Y si con otro pasas el rato",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Vamo' a ser feliz, vamo' a ser feliz",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Felices los 4",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 60,
+		"fontColor": "white",
+		"backgroundColor": "red"
+	},
+	{
+		"text": "Te agrandamos el cuarto",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+
+	{
+		"text": "Y si con otro pasas el rato",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Vamo' a ser feliz, vamo' a ser feliz",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Felices los 4",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 60,
+		"fontColor": "white",
+		"backgroundColor": "red"
+	},
+	{
+		"text": "Yo te acepto el trato",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Y lo hacemos otro rato",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Y lo hacemos otro rato",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Y lo hacemos otro rato",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Y lo hacemos otro rato",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Y siempre que se va, regresa a mi",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "(Maluma baby)",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "No importa el que dirán, nos gusta así",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "(Kevin ADG, Chan El Genio)",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Y siempre que se va, regresa a mi",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "(El código secreto, baby)",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "No importa el que dirán, somos tal para cual",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Así lo quiso el destino mami",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 24,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	},
+	{
+		"text": "Mua",
+		"duration": 1000,
+		"font": "arial",
+		"fontStyle": "normal",
+		"fontSize": 100,
+		"fontColor": "red",
+		"backgroundColor": "yellow"
+	}
+]
